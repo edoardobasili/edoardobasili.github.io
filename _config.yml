@@ -1,0 +1,14 @@
+title: Edoardo Basili
+description: Fisioterapista con Master in Tecniche Manuali integrate ed Osteopatiche nei disturbi neuro-muscolo-scheletrici.
+url: ""
+baseurl: ""
+lang: it
+whatsapp_number: "393513473025"
+whatsapp_message: "Ciao Edoardo, vorrei informazioni per prenotare una visita."
+email: "edoardo.basili@outlook.it"
+plugins:
+  - jekyll-seo-tag
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

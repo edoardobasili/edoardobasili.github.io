@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 96" role="img" aria-label="EB - Edoardo Basili">
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- E -->
+    <path d="M16 17 V79 M16 17 H54 M16 48 H47 M16 79 H54" stroke="#183328" stroke-width="6"/>
+    <!-- B -->
+    <path d="M76 17 V79 M76 17 H91 C108 17 113 25 113 34 C113 43 106 48 94 48 H76 M76 48 H95 C109 48 116 54 116 64 C116 74 108 79 92 79 H76" stroke="#183328" stroke-width="6"/>
+    <!-- stylized spine between E and B -->
+    <path d="M65 14 C58 25 72 31 64 41 C57 50 70 57 63 67 C59 73 61 79 66 84" stroke="#2F6B4F" stroke-width="3.2"/>
+    <g stroke="#3F8A67" stroke-width="2.8">
+      <path d="M61 23 h8"/><path d="M60 31 h9"/><path d="M60 40 h8"/><path d="M59 49 h9"/><path d="M59 58 h8"/><path d="M59 67 h8"/><path d="M61 76 h8"/>
+    </g>
+  </g>
+</svg>
