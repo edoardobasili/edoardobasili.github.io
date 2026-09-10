@@ -33,7 +33,7 @@ description: Fisioterapia, riabilitazione e tecniche manuali integrate ed osteop
           href="https://wa.me/{{ site.whatsapp_number }}?text={{ site.whatsapp_message | url_encode }}"
           target="_blank"
           rel="noopener">
-          Prenota su WhatsApp →
+          Prenota su WhatsApp
         </a>
       </div>
 
@@ -311,7 +311,7 @@ description: Fisioterapia, riabilitazione e tecniche manuali integrate ed osteop
         href="https://wa.me/{{ site.whatsapp_number }}?text={{ site.whatsapp_message | url_encode }}"
         target="_blank"
         rel="noopener">
-        Scrivimi su WhatsApp →
+        Scrivimi su WhatsApp
       </a>
 
     </div>
